@@ -10,6 +10,6 @@
     "SYMBOL": "ASTR",
     "ID": 592
   },
-  "GAS_LIMIT": 50000,
+  "GAS_LIMIT": 150000,
   "SHOW_BACKGROUND": false
 }
